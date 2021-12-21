@@ -1,7 +1,5 @@
 find . -name '.DS_Store' -type f -delete
 
-# git init
-
 # git status
 
 # git restore <file>..." to discard changes in working directory
@@ -10,8 +8,12 @@ find . -name '.DS_Store' -type f -delete
 
 # git restore --staged <file>..." to unstage
 
-# git commit -m ' ' to commit files
+# git commit -m ' ' to commit
 
-# git log to see the log (record)
-# git log --oneline to see the log in concise
+# git log
+# git log --oneline to see what you have done
+
+# git checkout b5d72f2
+
+# git revert b5d72f2  to discard changes
 
