@@ -32,4 +32,6 @@ find . -name '.DS_Store' -type f -delete
 
 # git merge blog to merge "blog" into "master"
 
+# git remote add origin https://github.com/reddylee/git-study.git to connect GitHub
 
+# git push origin master
