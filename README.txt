@@ -19,4 +19,11 @@ find . -name '.DS_Store' -type f -delete
 
 # git reset "8ab705a" to go back to specific commit (remove commits after "8ab705a")
 
+# git reset 226ec1b --hard (discard changes)
+
+# git branch to show how many branches and which branch you are on 
+# git branch branch_name to create a new branch
+
+# git checkout blog to switch to branch "blog"
+
 
