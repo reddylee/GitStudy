@@ -30,5 +30,6 @@ find . -name '.DS_Store' -type f -delete
 
 # git branch -D deletme to delete branch "delete"
 
+# git merge blog to merge "blog" into "master"
 
 
