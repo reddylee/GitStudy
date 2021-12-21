@@ -17,3 +17,6 @@ find . -name '.DS_Store' -type f -delete
 
 # git revert b5d72f2  to discard changes
 
+# git reset "8ab705a" to go back to specific commit (remove commits after "8ab705a")
+
+
