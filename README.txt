@@ -26,4 +26,6 @@ find . -name '.DS_Store' -type f -delete
 
 # git checkout blog to switch to branch "blog"
 
+# back to master branch
+
 
