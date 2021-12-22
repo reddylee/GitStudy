@@ -34,4 +34,6 @@ find . -name '.DS_Store' -type f -delete
 
 # git remote add origin https://github.com/reddylee/git-study.git to connect GitHub
 
-# git push origin master
+# git push origin main
+
+# git clone https://github.com/reddylee/remove.git to clone a repository from GitHub
